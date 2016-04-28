@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaterialDesignExample</string>
+    <string name="title_activity_material">MaterialActivity</string>
+    <string name="name">Nome</string>
+    <string name="lastName">Cognome</string>
+    <string name="e_mail">E-mail</string>
+    <string name="login">Login</string>
+    <string name="launch_material_activity">Lancia Material Activity</string>
+</resources>
